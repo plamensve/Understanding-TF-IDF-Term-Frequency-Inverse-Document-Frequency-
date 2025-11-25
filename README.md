@@ -70,9 +70,3 @@ This helps understand the dominant themes of each cluster.
 - matplotlib  
 
 ---
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-python main.py
